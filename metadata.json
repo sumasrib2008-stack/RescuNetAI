@@ -1,0 +1,8 @@
+{
+  "name": "Remix RescuNetAI",
+  "description": "Real-time spatial intelligence and dynamic evacuation routing for municipal disaster command centers in Visakhapatnam.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
